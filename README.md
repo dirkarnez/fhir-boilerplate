@@ -20,3 +20,4 @@ FROM [google/fhir-examples: Usage Examples for github.com/google/fhir](https://g
 ### Reference
 - [Index - FHIR v4.0.1](http://hl7.org/fhir/)
 - [ndjson](http://ndjson.org/)
+- [microsoft/fhir-server: A service that implements the FHIR standard](https://github.com/microsoft/fhir-server)
