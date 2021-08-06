@@ -17,6 +17,13 @@ FROM [google/fhir-examples: Usage Examples for github.com/google/fhir](https://g
 - Generate a synthetic FHIR JSON dataset in a docker image
     - https://github.com/google/fhir-examples/blob/master/generate-synthea.sh
 
+### Conversion
+- From HL7
+    - [microsoft/FHIR-Converter](https://github.com/microsoft/FHIR-Converter)
+        - 
+        ```
+        .\Microsoft.Health.Fhir.Liquid.Converter.Tool.exe convert --TemplateDirectory "FHIR-Converter\data\Templates\Hl7v2" --RootTemplate ADT_A01 --InputDataFolder "FHIR-Converter\data\SampleData\Hl7v2" --OutputDataFolder ".\output"
+        ```
 ### Reference
 - [Index - FHIR v4.0.1](http://hl7.org/fhir/)
 - [ndjson](http://ndjson.org/)
