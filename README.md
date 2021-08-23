@@ -7,6 +7,12 @@ FROM [google/fhir-examples: Usage Examples for github.com/google/fhir](https://g
 - STU3 - http://hl7.org/fhir/stu3/index.html
 - R4 - http://hl7.org/fhir/r4/
 
+### UI
+- [1uphealth/fhir-react: FHIR React Component Library](https://github.com/1uphealth/fhir-react)
+
+### Standards
+- [Home – LOINC](https://loinc.org/)
+
 ### Tools
 - [JSON to NDJSON Online Converter - Newline Delimited JSON](https://www.json-to-ndjson.app/)
 - [Synthea by the Standard Health Record Collaborative](https://synthetichealth.github.io/synthea/)
